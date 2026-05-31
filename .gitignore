@@ -1,0 +1,6 @@
+# Archivos compilados de Java
+bin/
+*.class
+
+# Archivos de sistema de Mac
+.DS_Store
